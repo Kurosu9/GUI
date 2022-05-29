@@ -10,7 +10,7 @@
 ***
 ## IT HAS 6 FUNCTIONS ##
 ### 1. _Add Watermark - adds a watermark to the image you have selected._ ###
-#### 2. _Black and White - adds a watermark to the image you have selected._ ###
+### 2. _Black and White - adds a watermark to the image you have selected._ ###
 ### 3. _Resize - resizes the image._ ###
 ### 4. _MIX - all these 1-3 functions are added to the image._ ###
 ### 5. _Copyright Section - it is the Copyright notification._ ###
